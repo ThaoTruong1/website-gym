@@ -1,4 +1,3 @@
-import React from 'react';
 import Header from '../Header/Header';
 import './Hero.css';
 import Heart from '../../assets/heart.png';
